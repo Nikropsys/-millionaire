@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Win_Forms_Millionaire
 {
+    //Не реализовано
     public partial class Delete_Question : Form
     {
         public Delete_Question()

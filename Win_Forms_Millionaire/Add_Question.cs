@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Win_Forms_Millionaire
 {
+    //Не реализовано
     public partial class Add_Question : Form
     {
         public Add_Question()
